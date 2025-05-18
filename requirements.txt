@@ -1,0 +1,6 @@
+aiogram
+Pyrogram
+python-dotenv
+redis
+Telethon
+tgcrypto

@@ -133,4 +133,4 @@ If you prefer a video guide, watch this tutorial on YouTube:
    ```
 ---
 
-🎉 حالا رباط آماده است!
+🎉 حالا ربات آمادست!

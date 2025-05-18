@@ -124,12 +124,12 @@ If you prefer a video guide, watch this tutorial on YouTube:
 4. اجرای ربات:
 
    ```bash
-   python bot.py
+   python3 bot.py
    ```
 
 5. اجرای یوزربات
    ```bash
-   python cli.py
+   python3 cli.py
    ```
 ---
 

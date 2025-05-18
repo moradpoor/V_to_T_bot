@@ -35,8 +35,8 @@ If you prefer a video guide, watch this tutorial on YouTube:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/moradpoor/V_to_T_bot.git
+   cd V_to_T_bot
    ```
 
 2. Install dependencies:
